@@ -1,0 +1,24 @@
+body{
+    margin: auto;
+    background: white;
+}
+#frm{
+    border: 1px solid gray;
+    margin: 100px auto;
+    border-radius: 5px;
+    width: 20%;
+    padding: 50px;
+    background: lightblue;
+    
+}
+h1{
+    font-size: 22px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn{
+    color: white;
+    background: blue;
+    margin-left: 69%;
+    padding: 5px;
+}
